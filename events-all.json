@@ -1222,6 +1222,16 @@
    "firstSeen": "2026-09-10"
   },
   {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "美团2027届食杂零售管培生计划专场宣讲会-北京理工大学场",
+   "startAt": "2026-09-10",
+   "endAt": "2026-09-10 20:00:00",
+   "location": "文萃楼M座125",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=cb394a87566947309e088b0dc7483873",
+   "firstSeen": "2026-09-08"
+  },
+  {
    "school": "北京航空航天大学",
    "kind": "招聘公告",
    "theme": "国家某部委及其直属机构 2027年度公务员招录宣讲公告",
@@ -1512,6 +1522,46 @@
    "firstSeen": "2026-09-10"
   },
   {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣中国人民解放军63653部队2026-2027年度直接选拔招录军官宣讲会",
+   "startAt": "2026-09-10",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=9f7c3481-ce48-282c-ca6c-465fc3980367&hold_date=2026-9-10",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣中国平安2027全球校园招聘宣讲会",
+   "startAt": "2026-09-10",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=577b3ec2-0a43-a618-d236-ee04e2bc4a0f&hold_date=2026-9-10",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣字节跳动2027校园招聘宣讲会",
+   "startAt": "2026-09-10",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=c5e59056-6ed4-9c9f-79b2-4a98e04997c9&hold_date=2026-9-10",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣2026年徐汇区选调生政策宣讲（复旦专场）",
+   "startAt": "2026-09-10",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=e644c44a-46cf-8901-60ed-2fa7b978dea0&hold_date=2026-9-10",
+   "firstSeen": "2026-09-08"
+  },
+  {
    "school": "武汉大学",
    "kind": "宣讲会/专场",
    "theme": "网络空间部队某部（上海）非现役文职招聘宣讲会",
@@ -1730,8 +1780,2568 @@
    "location": "天赐庄校区（本部）博远楼101多媒体教室",
    "url": "https://suda.91job.org.cn/sub-station/home/10285",
    "firstSeen": "2026-09-10"
+  },
+  {
+   "school": "上海交通大学",
+   "kind": "空中宣讲会",
+   "theme": "杭州九阳小家电有限公司校园空中宣讲会",
+   "startAt": "2026-09-09 19:00:00",
+   "endAt": "2026-09-09 20:00:00",
+   "location": "-",
+   "url": "https://www.job.sjtu.edu.cn/career/xjhxx/view/236853294520209408",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "上海财经大学",
+   "kind": "宣讲会",
+   "theme": "招商银行股份有限公司上海分行校园宣讲会",
+   "startAt": "2026-09-09 18:00:00",
+   "endAt": "2026-09-09 20:00:00",
+   "location": "武东路校区 大学生活动中心A208",
+   "url": "https://career.sufe.edu.cn/career/xjhxx/view/235365626653315072",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "东南大学",
+   "kind": "宣讲会",
+   "theme": "中国船舶集团第七〇二研究所校园招聘宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "由学校安排",
+   "url": "https://seu.91job.org.cn/sub-station/home/10286",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中国人民大学",
+   "kind": "招聘活动",
+   "theme": "课程预告 |【9月9日12:00】人大“三创”课程再升级！",
+   "startAt": "2026-09-09",
+   "endAt": "2026-09-09 13:00:00",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国人民大学",
+   "kind": "招聘活动",
+   "theme": "2027中国电信股份有限公司乌鲁木齐分公司秋季校园招聘宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "2026-09-09",
+   "location": "学生就业创业指导中心413面试间",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国人民大学",
+   "kind": "招聘活动",
+   "theme": "中国工商银行深圳市分行2027年校园招聘宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "2026-09-09",
+   "location": "学生就业创业指导中心417宣讲报告厅",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国人民大学",
+   "kind": "招聘活动",
+   "theme": "年轻“九”就要不一“阳”，锁定9月9日周三晚19点，九阳股份2027不一“阳”的空中宣讲会等你来看！",
+   "startAt": "2026-09-09",
+   "endAt": "2026-09-09",
+   "location": "https://tv.51job.com/redirect.aspx?key=VDC67",
+   "url": "",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中国农业大学",
+   "kind": "宣讲会/专场",
+   "theme": "年轻“九”就要不一“阳”，锁定9月9日周三晚19点，九阳股份2027不一“阳”的",
+   "startAt": "2026-09-09 19:00:00",
+   "endAt": "",
+   "location": "https://tv.51job.com/redirect.as",
+   "url": "https://scc.cau.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国科学技术大学",
+   "kind": "招聘活动",
+   "theme": "上海光通信2027届校招宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://job.ustc.edu.cn/Specialrecruitment/info.aspx?itemid=9844",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国科学技术大学",
+   "kind": "招聘活动",
+   "theme": "上海宇量昇科技有限公司2027届校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://job.ustc.edu.cn/Specialrecruitment/info.aspx?itemid=9931",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国科学技术大学",
+   "kind": "招聘活动",
+   "theme": "HI YOU！京东方科技集团（BOE）2027届校园招聘宣讲会+线下面试现场报名",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://job.ustc.edu.cn/Specialrecruitment/info.aspx?itemid=9818",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国科学技术大学",
+   "kind": "招聘活动",
+   "theme": "科大讯飞2027届校园招聘中国科学技术大学宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://job.ustc.edu.cn/Specialrecruitment/info.aspx?itemid=9972",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京师范大学",
+   "kind": "宣讲会/专场",
+   "theme": "九阳股份2027空中宣讲会9月9日周三晚19点",
+   "startAt": "2026-09-09 19:00:00",
+   "endAt": "",
+   "location": "https://tv.51job.com/redirect.aspx?key=VDC67",
+   "url": "https://career.bnu.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "北京理工大学2027届毕业生秋季大型综合招聘会（良乡校区）",
+   "startAt": "2026-09-09",
+   "endAt": "2026-09-09 17:00:00",
+   "location": "北京理工大学良乡校区北校区学生服务中心楼一层大厅",
+   "url": "/f/bilateralchosefair/show?bilateralchosefairId=48f34a6b4c574bc59ffebde2c6a9c2ab",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中电海康集团2027届校园招聘",
+   "startAt": "2026-09-09 10:00:00",
+   "endAt": "",
+   "location": "主北楼205教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "上海航天八院八〇四所2027届校园招聘宣讲会",
+   "startAt": "2026-09-09 16:00:00",
+   "endAt": "",
+   "location": "主南楼206教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国科学院微小卫星创新研究院2027届校园招聘宣讲会",
+   "startAt": "2026-09-09 18:30:00",
+   "endAt": "",
+   "location": "主南楼105教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "年轻“九”就要不一“阳”，锁定9月9日周三晚19点，九阳股份2027不一“阳”的",
+   "startAt": "2026-09-09 19:00:00",
+   "endAt": "",
+   "location": "https://tv.51job.com/redirect.aspx?key=VDC67",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "“鹭”启新程，逐梦未来！ 厦门航空 2027 届校园招聘",
+   "startAt": "2026-09-09 14:00:00",
+   "endAt": "2026-09-09 16:00:00",
+   "location": "仙林校区 十食堂三楼就业中心305",
+   "url": "https://job.nju.edu.cn/career/specifics/618040676424093698",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "中建八局第二建设有限公司2027届校园招聘",
+   "startAt": "2026-09-09 14:00:00",
+   "endAt": "2026-09-09 17:00:00",
+   "location": "鼓楼校区 费彝民楼B座201",
+   "url": "https://job.nju.edu.cn/career/specifics/617394849498271745",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "寒武纪2027届校园招聘",
+   "startAt": "2026-09-09 14:00:00",
+   "endAt": "2026-09-09 17:00:00",
+   "location": "仙林校区 十食堂三楼就业中心307",
+   "url": "https://job.nju.edu.cn/career/specifics/616234286659407874",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "中国电科第十四研究所2027届校园招聘宣讲会",
+   "startAt": "2026-09-09 14:00:00",
+   "endAt": "2026-09-09 17:00:00",
+   "location": "仙林校区 就业中心306报告厅（具备同步视频直播功能）",
+   "url": "https://job.nju.edu.cn/career/specifics/615967989396672514",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "杭州睿琪软件—2027校园宣讲会",
+   "startAt": "2026-09-09 14:30:00",
+   "endAt": "2026-09-09 16:30:00",
+   "location": "仙林校区 化学楼H201报告厅",
+   "url": "https://job.nju.edu.cn/career/specifics/613736633761533953",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "中国移动香港 - 跨境就业简介及发展机会宣讲会",
+   "startAt": "2026-09-09 16:30:00",
+   "endAt": "2026-09-09 18:00:00",
+   "location": "仙林校区 十食堂三楼就业中心305",
+   "url": "https://job.nju.edu.cn/career/specifics/613671988635897858",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "新凯来2027届校园招聘宣讲会（鼓楼校区）",
+   "startAt": "2026-09-09 18:30:00",
+   "endAt": "2026-09-09 21:00:00",
+   "location": "鼓楼校区 费彝民楼B座201",
+   "url": "https://job.nju.edu.cn/career/specifics/616595666222714881",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "量化蒙新 与AI同频 | 蒙玺投资2027届校园招聘",
+   "startAt": "2026-09-09 18:30:00",
+   "endAt": "2026-09-09 21:30:00",
+   "location": "仙林校区 就业中心306报告厅（具备同步视频直播功能）",
+   "url": "https://job.nju.edu.cn/career/specifics/613734501679370242",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "学而思27届秋招-南京大学仙林校区站",
+   "startAt": "2026-09-09 18:30:00",
+   "endAt": "2026-09-09 20:30:00",
+   "location": "仙林校区 十食堂三楼就业中心307",
+   "url": "https://job.nju.edu.cn/career/specifics/613368694717812737",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "TP-Link联洲2027届秋季校园招聘",
+   "startAt": "2026-09-09 19:00:00",
+   "endAt": "2026-09-09 21:00:00",
+   "location": "仙林校区 就业中心303报告厅（具备同步视频直播功能）",
+   "url": "https://job.nju.edu.cn/career/specifics/615238488937205761",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "长川科技2027届校园招聘简章 青春正燃，逐梦长川",
+   "startAt": "2026-09-09 19:00:00",
+   "endAt": "2026-09-09 21:00:00",
+   "location": "仙林校区 十食堂三楼就业中心305",
+   "url": "https://job.nju.edu.cn/career/specifics/615204980172787714",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "招聘会",
+   "theme": "“智行深蓝，舰启新程”中国船舶集团有限公司2027届校园招聘南京航空航天大学专场",
+   "startAt": "2026-09-09 09:30:00",
+   "endAt": "2026-09-09 12:00:00",
+   "location": "将军路校区西区体育中心",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "恒生2027秋季校园招聘宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "将军路校区东区D1教学楼D1113",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "国电南京自动化股份有限公司2027届校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "将军路东区 一号楼D1114",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "DJI 大疆 2027“拓疆者”校园招聘-南京航空航天大学（将军路校区）专场",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "将军路东区 一号楼D1116",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "中国航发湖南动力机械研究所2027届校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "明故宫校区7号楼731教室",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "远景动力2027届校招",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "将军路校区东区1号楼D1113",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "中国航发南方工业有限公司2027校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "明故宫校区7号楼711教室",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "中国人民解放军第五七一三工厂2027届校招",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "明故宫七号楼711",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "风禾尽起，能控未来-禾望电气2027届校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "将军路校区东区1号楼D1114",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "“星领时代，智创未来” 海星股份2027届毕业生校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "将军路东区 一号楼D1111",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "中建三局集团建设发展有限公司 2027届校园招聘（南航专场）",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "将军路校区东区D1212",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "陆军工程大学机械学院直招军官2027校园宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "叶耀珍楼202",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "中哲物产集团2027秋季校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "与信同行·中信集团2027年校园招聘联合宣讲",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "星宸科技股份有限公司线下宣讲会（2027届）",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "携程集团2027届秋季校园招聘宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "vivo2027届秋季校园招聘宣讲会-复旦大学专场",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣陆军工程大学机械学院直招军官2027校园宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=c9876c31-1480-c07c-51a2-6d919f883be4&hold_date=2026-9-9",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣中哲物产集团2027秋季校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=af7f6548-cc1d-c8ab-13c6-0d48a9e8babe&hold_date=2026-9-9",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣与信同行·中信集团2027年校园招聘联合宣讲",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=f55a44ed-80a3-db0f-5880-ea1cfb4d77b0&hold_date=2026-9-9",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣星宸科技股份有限公司线下宣讲会（2027届）",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=449d2ec5-a924-84fe-30f6-72662c8ce99f&hold_date=2026-9-9",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣携程集团2027届秋季校园招聘宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=e4400d17-9914-88cb-c7cb-3c73035002ac&hold_date=2026-9-9",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣vivo2027届秋季校园招聘宣讲会-复旦大学专场",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=b6d84059-f4c1-ac9e-082e-f5c0e844f485&hold_date=2026-9-9",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "星宸科技股份有限公司线下宣讲会（2027届）\n\n 2026-09-09 18:30\n\n举办地点： 张江校区Z2202\n\n举办用人单位： 星宸科技股份有限公司",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=449d2ec5-a924-84fe-30f6-72662c8ce99f",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "携程集团2027届秋季校园招聘宣讲会\n\n 2026-09-09 18:30\n\n举办地点： 江湾校区交叉二号学科楼E1006报告厅\n\n举办用人单位： 携程计算机技",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=e4400d17-9914-88cb-c7cb-3c73035002ac",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "vivo2027届秋季校园招聘宣讲会-复旦大学专场\n\n 2026-09-09 18:30\n\n举办地点： 江湾校区化学楼A7032\n\n举办用人单位： 维沃移动通信",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=b6d84059-f4c1-ac9e-082e-f5c0e844f485",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "招聘会",
+   "theme": "用强军梦托起中国梦|航空工业集团2027届校园招聘——武汉大学站",
+   "startAt": "2026-09-09 09:00:00",
+   "endAt": "",
+   "location": "竹园体育馆（原信息学部东区体育馆）",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国船舶集团广船国际有限公司2027届高校应届生招聘宣讲会",
+   "startAt": "2026-09-09 09:30:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "中建钢构股份有限公司2027届校园招聘",
+   "startAt": "2026-09-09 09:30:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国华电集团有限公司浙江公司2027年校园招聘",
+   "startAt": "2026-09-09 09:30:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "【已取消】中国华电集团有限公司浙江公司2027年校园招聘",
+   "startAt": "2026-09-09 09:30:00",
+   "endAt": "",
+   "location": "就业中心第四报告厅",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "苏州大学",
+   "kind": "宣讲会",
+   "theme": "江苏博睿光电股份有限公司2027届专场招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "独墅湖校区（北区）301幢1101多媒体教室",
+   "url": "https://suda.91job.org.cn/sub-station/home/10285",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "苏州大学",
+   "kind": "宣讲会",
+   "theme": "江苏星好月圆2027届小语种校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "天赐庄校区（东区）东教楼101、102多媒体教室",
+   "url": "https://suda.91job.org.cn/sub-station/home/10285",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "苏州大学",
+   "kind": "宣讲会",
+   "theme": "固德威27届校园招聘专场宣讲会-召唤能源变革新生力",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "阳澄湖校区1A212多媒体教室",
+   "url": "https://suda.91job.org.cn/sub-station/home/10285",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "苏州大学",
+   "kind": "宣讲会",
+   "theme": "英诺赛科2027届校园招聘宣讲会",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "天赐庄校区（东区）东教楼110多媒体教室",
+   "url": "https://suda.91job.org.cn/sub-station/home/10285",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "苏州大学",
+   "kind": "宣讲会",
+   "theme": "中国移动云公司2027届校园招聘",
+   "startAt": "2026-09-09",
+   "endAt": "",
+   "location": "天赐庄校区（本部）博远楼102多媒体教室",
+   "url": "https://suda.91job.org.cn/sub-station/home/10285",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "上海交通大学",
+   "kind": "空中宣讲会",
+   "theme": "广东军辉达进出口贸易有限公司校园空中宣讲会",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "2026-09-08 15:00:00",
+   "location": "-",
+   "url": "https://www.job.sjtu.edu.cn/career/xjhxx/view/228181569607700480",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "上海交通大学",
+   "kind": "空中宣讲会",
+   "theme": "【在桃李，见未来】桃李未来27届秋招-空中宣讲会0908",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "2026-09-08 17:00:00",
+   "location": "-",
+   "url": "https://www.job.sjtu.edu.cn/career/xjhxx/view/235353112364322816",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（华北地区）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190052/tag/sydw",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（西南地区）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190055/tag/sydw",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（华中地区）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190056/tag/sydw",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（华南地区）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190053/tag/sydw",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（华东地区）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190054/tag/sydw",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（东北地区）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190117/tag/sydw",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（西北地区）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190119/tag/sydw",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘公告",
+   "theme": "有色金属类招聘信息汇总",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/573694",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘公告",
+   "theme": "医疗卫生类招聘信息汇总",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/547687",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘公告",
+   "theme": "国防军工类招聘信息汇总",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/555628",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘公告",
+   "theme": "交通运输类招聘信息汇总",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/547685",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘公告",
+   "theme": "信息通讯与互联网类招聘信息汇总",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/547671",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘公告",
+   "theme": "能源动力类招聘信息汇总",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/558561",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘公告",
+   "theme": "金融经济类招聘信息汇总",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/543181",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘公告",
+   "theme": "建筑行业类招聘信息汇总",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/543164",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "教育行业类招聘信息汇总（中小学）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/543192",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "教育行业类招聘信息汇总（高校）",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/campus/view/id/543185",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "中国人民大学",
+   "kind": "招聘活动",
+   "theme": "【在桃李，见未来】桃李未来2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08",
+   "location": "https://live.bilibili.com/3356592",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国人民大学",
+   "kind": "招聘活动",
+   "theme": "中国东方资产管理股份有限公司2027年度校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08",
+   "location": "学生就业创业指导中心419宣讲报告厅",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国农业大学",
+   "kind": "宣讲会/专场",
+   "theme": "广东军辉达进出口贸易有限公司空中宣讲会",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "",
+   "location": "https://meeting.tencent.com/dm/6oWstR1iuvE9",
+   "url": "https://scc.cau.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国科学技术大学",
+   "kind": "招聘活动",
+   "theme": "长川科技2027届校园招聘宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://job.ustc.edu.cn/Specialrecruitment/info.aspx?itemid=9887",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国科学技术大学",
+   "kind": "招聘活动",
+   "theme": "深南电路2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://job.ustc.edu.cn/Specialrecruitment/info.aspx?itemid=9859",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国科学技术大学",
+   "kind": "招聘活动",
+   "theme": "携程集团2027届秋季校园招聘宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://job.ustc.edu.cn/Specialrecruitment/info.aspx?itemid=9949",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京师范大学",
+   "kind": "宣讲会/专场",
+   "theme": "2027中国电信股份有限公司乌鲁木齐分公司秋季校园招聘宣讲会",
+   "startAt": "2026-09-08 08:30:00",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.bnu.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京师范大学",
+   "kind": "宣讲会/专场",
+   "theme": "【在桃李，见未来】桃李未来2027届秋季校园招聘",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "",
+   "location": "https://live.bilibili.com/3356592",
+   "url": "https://career.bnu.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国邮政储蓄银行股份有限公司福建省分行2027年校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-10-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=f59a6bb8ff6b4009aeb218f2ad3a2a7a",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中核汇智2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-11-30 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=b36b1fd7f07c4ee2990d8d8a160f0629",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国外运华中有限公司 OSH“雁翔·翊2027”项目暨2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2027-02-28 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=0e973962650943849ae5621801295200",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "“炽热青春 滚烫未来”赛夫集团2027校招季-北京理工大学站",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=7f7e7348aa1a4e5586f02078bb121f15",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中航科创2027届秋季校园招聘正式启动！",
+   "startAt": "2026-09-08",
+   "endAt": "2026-11-30 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=b78a253007ae47cfbd4925e9d32862d8",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "南京市华翌精密机械科技有限公司校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=6d56fd3c98974b8a8dd3c7034922b7b8",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "前海开源基金2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=4dcdb9a6561e43d783222ffe964b8345",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "2026年福州市“好年华·聚福州”城市引才推介会暨双选会 （北京站）",
+   "startAt": "2026-09-08",
+   "endAt": "2026-12-31 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=cdcdf1df0f3d4bf4807ad82f1070fef7",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "重庆赛豆科技有限公司2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-12-28 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=f4fc1c66fe324d2db70c10a197743ea3",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘公告",
+   "theme": "金昌市2026年第二批引进高层次和急需紧缺人才公告",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-28 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=11014fecd2bc4eef99322c519a08baba",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "以谦投资（济南研究部）招聘研究助理实习生（实习期不少于6个月，提供免费食宿）",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=a083c3451f88425bb054c5242e6b7e94",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "南瑞继保2027届校园招聘宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08 11:30:00",
+   "location": "中教425",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=cc3c530c815247bc859dffbe373a513a",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "心驱动 梦启航 中国航空发动机集团有限公司北京理工大学2027届专场招聘会",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08 12:00:00",
+   "location": "体育馆南厅+唯实报告厅",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=85138ef54e1e4b1d95d5078c94fbf9e1",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "汇川技术2027届校招宣讲",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08 15:30:00",
+   "location": "唯实报告厅",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=1d111235ce604a0ab9e4637c28a3d32c",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "中国航发北京航空材料研究院2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08 15:30:00",
+   "location": "中教325",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=dedc3c18830b4356a6dd32ca8822cdc8",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "广东军辉达进出口贸易有限公司空中宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08 15:00:00",
+   "location": "https://meeting.tencent.com/dm/6oWstR1iuvE9",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=dd41533da8c046f6909af9ba37d71500",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "【宣讲+双选】中国移动通信集团2027校园招聘宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08 17:30:00",
+   "location": "中教211+中教230",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=a502ad3e04ef4a8489974309d2064af3",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "【在桃李，见未来】桃李未来2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-08 17:00:00",
+   "location": "https://live.bilibili.com/3356592",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=4ee96d322174477584c514c2ffd2eaf2",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "四达时代集团2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-08 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=2c67697dd4014aa5a32d871bf91125ee",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘公告",
+   "theme": "中国广核集团2027届秋季校园招聘公告",
+   "startAt": "2026-09-08",
+   "endAt": "2026-10-30 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=c399a874163246c8a32f172c716c6152",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国航发黎阳2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-08 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=22945df615ce4e9eb8d76140ba6c86fe",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国移动在线营销服务中心 2027届秋季校招暨“金种子计划”招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-10-15 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=8e045dfbdc91436b915abaecefdf205a",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘公告",
+   "theme": "豪迈2027秋季校园招聘简章",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=426ac78aa2a84abc8acce1429e7c4d85",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "平安银行广州分行2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-11-06 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=6cb8dadee7da420291475b7eb8e2455c",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘公告",
+   "theme": "建投华科投资股份有限公司2027届校园招聘公告",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=d2337d7878224a5ca195f45601d9e00a",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "金蝶2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2026-11-15 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=655edac89ccf473893692f9724a6fdf3",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘公告",
+   "theme": "唐山职业技术学院2026年博士选聘公告",
+   "startAt": "2026-09-08",
+   "endAt": "2026-09-30 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=dbef1475b7b04a77aee87eba72ccfc71",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘公告",
+   "theme": "贵州交通职业大学2026年引进高层次人才公告",
+   "startAt": "2026-09-08",
+   "endAt": "2026-12-31 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=83e53c42e3004011ae95997b2318d566",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国兵器工业集团二〇六研究所2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "2027-03-08 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=d4a8221e93124c82bd09980e2f43681e",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国兵器工业第二〇三研究所2026年秋季校园招聘宣讲会",
+   "startAt": "2026-09-08 10:00:00",
+   "endAt": "",
+   "location": "三号楼203教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国飞机强度研究所2027届校园招聘宣讲会",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "",
+   "location": "J5-105教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国航空工业建投2027届校园招聘宣讲会",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "",
+   "location": "J5-101教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国航发成都发动机有限公司 2027届校园招聘宣讲会",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "",
+   "location": "J5-210教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "航空工业哈飞专场宣讲会",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "",
+   "location": "J5-106教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "航空工业直升机所2027届校园招聘",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "",
+   "location": "三号楼402教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "航空工业自控所2027届校园招聘宣讲会",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "",
+   "location": "主楼201教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "【在桃李，见未来】桃李未来2027届秋季校园招聘",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "",
+   "location": "https://live.bilibili.com/3356592",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国航发沈阳发动机研究所2027届校园招聘",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "",
+   "location": "J3-105教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国航发沈阳黎明航空发动机有限责任公司2027届校园宣讲会",
+   "startAt": "2026-09-08 18:30:00",
+   "endAt": "",
+   "location": "J5-101教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "北京航空航天大学",
+   "kind": "宣讲会/专场",
+   "theme": "中国空空导弹研究院2027届毕业生招聘",
+   "startAt": "2026-09-08 18:30:00",
+   "endAt": "",
+   "location": "三号楼205教室",
+   "url": "https://career.buaa.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "华东师范大学",
+   "kind": "大型招聘会",
+   "theme": "丽娃河畔—华东师范大学2027届毕业生秋季招聘会",
+   "startAt": "2026-09-08 13:00",
+   "endAt": "2026-09-16 00:00",
+   "location": "-",
+   "url": "https://career.ecnu.edu.cn/career/zphxx/view/237534664196231168",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "华南理工大学",
+   "kind": "招聘活动",
+   "theme": "【线下】上海摩瓦新能源科技有限公司宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://jyzx.scut.edu.cn/xjhxq/list.htm?id=1ad8a2c3f43f4399903ae13bc77d247c",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "华南理工大学",
+   "kind": "招聘活动",
+   "theme": "【线下】广州市海珠区私立新东方培训学校宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://jyzx.scut.edu.cn/xjhxq/list.htm?id=01a7b2fd71b947e285e7e9abf572cb0f",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "华南理工大学",
+   "kind": "招聘活动",
+   "theme": "【线下】苏州锦艺新材料科技股份有限公司宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://jyzx.scut.edu.cn/xjhxq/list.htm?id=fef5fc901b8141eaa3f087ef74c2c2df",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "南京大学 - 宝洁路演活动",
+   "startAt": "2026-09-08 12:00:00",
+   "endAt": "2026-09-08 18:00:00",
+   "location": "仙林校区 仙林校区4.5.6食堂路演",
+   "url": "https://job.nju.edu.cn/career/specifics/617297732452749313",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "岚图汽车2027届校园招聘",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "2026-09-08 16:00:00",
+   "location": "仙林校区 就业中心303报告厅（具备同步视频直播功能）",
+   "url": "https://job.nju.edu.cn/career/specifics/614774463631724545",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "展梦星辰  共赴未来——中国电信集团有限公司2027年度校园招聘",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "2026-09-08 17:00:00",
+   "location": "仙林校区 图书馆报告厅一楼展厅",
+   "url": "https://job.nju.edu.cn/career/specifics/612950687344496642",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "中国兵器工业第二〇五研究所2027年校园招聘",
+   "startAt": "2026-09-08 15:00:00",
+   "endAt": "2026-09-08 17:00:00",
+   "location": "仙林校区 十食堂三楼就业中心305",
+   "url": "https://job.nju.edu.cn/career/specifics/616295834727747586",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "“星领时代，智创未来” 海星股份2027届毕业生校园招聘",
+   "startAt": "2026-09-08 15:00:00",
+   "endAt": "2026-09-08 17:00:00",
+   "location": "仙林校区 十食堂三楼就业中心304会议室",
+   "url": "https://job.nju.edu.cn/career/specifics/615948584528908289",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "中建三局集团有限公司专场招聘会",
+   "startAt": "2026-09-08 15:00:00",
+   "endAt": "2026-09-08 16:30:00",
+   "location": "鼓楼校区 费彝民楼B座201",
+   "url": "https://job.nju.edu.cn/career/specifics/recruit_fair_specific_5b5bf32c98ec0ef10198efe2892e04a9",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "信息支援部队2026年直招军官南京大学专场",
+   "startAt": "2026-09-08 15:30:00",
+   "endAt": "2026-09-08 17:00:00",
+   "location": "仙林校区 国际会议中心紫金厅（与国会中心预定场地）",
+   "url": "https://job.nju.edu.cn/career/specifics/619476616396935169",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "卫星集团2027届南京大学站校园招聘专场宣讲会",
+   "startAt": "2026-09-08 15:30:00",
+   "endAt": "2026-09-08 17:30:00",
+   "location": "仙林校区 化A216",
+   "url": "https://job.nju.edu.cn/career/specifics/616292437836435457",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "烟台睿创微纳技术股份有限公司 2027届校园招聘",
+   "startAt": "2026-09-08 18:00:00",
+   "endAt": "2026-09-08 20:00:00",
+   "location": "仙林校区 十食堂三楼就业中心305",
+   "url": "https://job.nju.edu.cn/career/specifics/617758524507688962",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "米哈游27届秋季校招宣讲会",
+   "startAt": "2026-09-08 18:00:00",
+   "endAt": "2026-09-08 21:00:00",
+   "location": "仙林校区 计算机221报告厅",
+   "url": "https://job.nju.edu.cn/career/specifics/615227662289342466",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "字节跳动2027校园招聘宣讲会",
+   "startAt": "2026-09-08 18:00:00",
+   "endAt": "2026-09-08 21:00:00",
+   "location": "仙林校区 国会中心三江厅（与国会中心预定场地）",
+   "url": "https://job.nju.edu.cn/career/specifics/614875181298487297",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "2026-2027 安永应届毕业生校园招聘暨寒假实习生招募",
+   "startAt": "2026-09-08 18:30:00",
+   "endAt": "2026-09-08 20:30:00",
+   "location": "仙林校区 十食堂三楼就业中心303B",
+   "url": "https://job.nju.edu.cn/career/specifics/613426867319345154",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "OPPO 2027届全球校园招聘宣讲会",
+   "startAt": "2026-09-08 18:30:00",
+   "endAt": "2026-09-08 20:30:00",
+   "location": "仙林校区 就业中心306报告厅（具备同步视频直播功能）",
+   "url": "https://job.nju.edu.cn/career/specifics/613414244959916033",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "新凯来2027届校园招聘宣讲会（仙林校区）",
+   "startAt": "2026-09-08 19:00:00",
+   "endAt": "2026-09-08 21:00:00",
+   "location": "仙林校区 十食堂三楼就业中心301大会议室",
+   "url": "https://job.nju.edu.cn/career/specifics/616593930699411458",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "新东方江苏省域2027届校园招聘宣讲会—南京大学站",
+   "startAt": "2026-09-08 19:00:00",
+   "endAt": "2026-09-08 21:00:00",
+   "location": "仙林校区 十食堂三楼就业中心307",
+   "url": "https://job.nju.edu.cn/career/specifics/616219102192603137",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "安永Cyber Security网络安全与隐私保护咨询服务全职SA1面试",
+   "startAt": "2026-09-08 20:30:00",
+   "endAt": "2026-09-08 22:00:00",
+   "location": "仙林校区 十食堂三楼就业中心304会议室",
+   "url": "https://job.nju.edu.cn/career/specifics/618421294509068290",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "三环集团2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "将军路东区 一号楼D1111",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "铂力特2027校园招聘全面启动",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "将军路校区东区D1114",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "中国核能电力股份有限公司2027届招聘会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "将军路校区东区D1教学楼D1114",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "佗道医疗科技有限公司2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "将军路东区 一号楼D1111",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "德州仪器 Texas Instruments 2027届应届生招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "将军路校区东区1号楼D1113",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "航空工业昌飞2026年秋季校园招聘宣讲",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "明故宫校区7号楼723,725教室",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "阳光电源2027届校招宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "将军路校区东区D1302教室",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "汇川技术2027届校招宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "将军路校区东区D1310",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "中国航发北京航科发动机控制系统科技有限公司2027届校园招聘宣讲",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "明故宫校区7号楼716教室",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "宣讲会",
+   "theme": "2027中国电信股份有限公司乌鲁木齐分公司秋季校园招聘宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "将军路校区东区D1教学楼D1110",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "招聘会",
+   "theme": "2026年陕西军工人才专场招聘活动",
+   "startAt": "2026-09-08 09:00:00",
+   "endAt": "2026-09-08 12:00:00",
+   "location": "将军路校区西区体育中心篮球馆",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "招聘会",
+   "theme": "中国航空发动机集团2027届校园招聘会",
+   "startAt": "2026-09-08 10:00:00",
+   "endAt": "2026-09-08 12:00:00",
+   "location": "明故宫体育馆",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京航空航天大学",
+   "kind": "招聘会",
+   "theme": "“潮聚杭州——相约在高新 乐业在滨江”杭州高新区(滨江）2027届毕业生南京航空航天大学招聘会",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "2026-09-08 17:00:00",
+   "location": "将军路艺术中心大厅",
+   "url": "https://nuaa.91job.org.cn/sub-station/home/10287",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "同济大学",
+   "kind": "宣讲会/专场",
+   "theme": "深圳桃李未来教育集团有限公司",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "",
+   "location": "https://live.bilibili.com/3356592",
+   "url": "https://tj91.tongji.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "科大讯飞2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "寒武纪2027届校园招聘宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "北京三快在线科技有限公司（美团）2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣科大讯飞2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=2dceba6f-2283-6e0b-886b-f5370717c97d&hold_date=2026-9-8",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣寒武纪2027届校园招聘宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=32032e7e-d0e0-5e1a-41c8-8f0d91534152&hold_date=2026-9-8",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣北京三快在线科技有限公司（美团）2027届校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=b595b7ff-71d5-6d8a-8ad6-d2204056a640&hold_date=2026-9-8",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "北京三快在线科技有限公司（美团）2027届校园招聘\n\n 2026-09-08 19:00\n\n举办地点： 江湾校区交叉二号学科楼E1006报告厅\n\n举办用人单位：",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=b595b7ff-71d5-6d8a-8ad6-d2204056a640",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "陆军工程大学机械学院直招军官2027校园宣讲会\n\n 2026-09-09 09:30\n\n举办地点： 叶耀珍楼202\n\n举办用人单位： 暂无数据",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=c9876c31-1480-c07c-51a2-6d919f883be4",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "中哲物产集团2027秋季校园招聘\n\n 2026-09-09 14:00\n\n举办地点： 江湾校区化学楼A7032\n\n举办用人单位： 宁波中哲物产有限公司",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=af7f6548-cc1d-c8ab-13c6-0d48a9e8babe",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "与信同行·中信集团2027年校园招聘联合宣讲\n\n 2026-09-09 18:30\n\n举办地点： 光华楼东辅楼103\n\n举办用人单位： 中信证券股份有限公司",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=f55a44ed-80a3-db0f-5880-ea1cfb4d77b0",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "陆军工程大学机械学院直招军官2027校园宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=c9876c31-1480-c07c-51a2-6d919f883be4",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "中哲物产集团2027秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=af7f6548-cc1d-c8ab-13c6-0d48a9e8babe",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "与信同行·中信集团2027年校园招聘联合宣讲",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=f55a44ed-80a3-db0f-5880-ea1cfb4d77b0",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "前海开源基金2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=03e60653-bbd6-b621-bdb6-df16459f8e88",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "中国银行江苏省分行2027年校园招聘公告",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=6560ed95-b19c-1ed2-0201-e30a2540bbd0",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "恒烁半导体（合肥）股份有限公司2027届校园招聘简章",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=1c51b4af-fa7c-316a-0141-f9f18059abe7",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "梦想靠岸招商银行长沙分行2027届秋季校园招聘",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=b358a299-8393-d148-8dab-d21770b1ff76",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "2026年辽宁省“天辽地宁聚英才，振兴突破创未来”主题宣讲会",
+   "startAt": "2026-09-08 09:30:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "广东军辉达进出口贸易有限公司空中宣讲会",
+   "startAt": "2026-09-08 14:00:00",
+   "endAt": "",
+   "location": "腾讯会议：https://meeting.tencent.com/dm/6oWstR1iuvE9",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "冠宇集团2027届校园招聘宣讲会",
+   "startAt": "2026-09-08 14:30:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "水利水电第十工程局有限公司秋季招聘",
+   "startAt": "2026-09-08 14:30:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "Hi YOU京东方2027全球校园招聘正式启动！",
+   "startAt": "2026-09-08 14:30:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "DJI 大疆 2027 校园招聘宣讲会",
+   "startAt": "2026-09-08 15:00:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "【在桃李，见未来】桃李未来2027届秋季校园招聘-空中宣讲会0908",
+   "startAt": "2026-09-08 16:00:00",
+   "endAt": "",
+   "location": "https://live.bilibili.com/3356592",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "上能电气2027届校园招聘",
+   "startAt": "2026-09-08 19:00:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "欧莱雅中国2027届管理培训生招聘宣讲会",
+   "startAt": "2026-09-08 19:00:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "深圳市鼎阳科技股份有限公司2027届秋招宣讲会",
+   "startAt": "2026-09-08 19:00:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "CET中电技术2027秋季校园招聘会",
+   "startAt": "2026-09-08 19:00:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "武汉大学",
+   "kind": "宣讲会/专场",
+   "theme": "长江存储科技有限责任公司 2027届全球校园招聘",
+   "startAt": "2026-09-08 19:00:00",
+   "endAt": "",
+   "location": "-",
+   "url": "http://xsjy.whu.edu.cn/",
+   "firstSeen": "2026-09-08"
+  },
+  {
+   "school": "苏州大学",
+   "kind": "宣讲会",
+   "theme": "广东军辉达进出口贸易有限公司空中宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "空中宣讲会",
+   "url": "https://suda.91job.org.cn/sub-station/home/10285",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "苏州大学",
+   "kind": "宣讲会",
+   "theme": "如果新能源2027届校园招聘宣讲会",
+   "startAt": "2026-09-08",
+   "endAt": "",
+   "location": "天赐庄校区（东区）东教楼101多媒体教室",
+   "url": "https://suda.91job.org.cn/sub-station/home/10285",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "东南大学",
+   "kind": "宣讲会",
+   "theme": "航空工业自控所2027届校园招聘宣讲会",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "由学校安排",
+   "url": "https://seu.91job.org.cn/sub-station/home/10286",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "东南大学",
+   "kind": "宣讲会",
+   "theme": "“国有所期，睿有所为” 国睿科技股份有限公司2027届校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "由学校安排",
+   "url": "https://seu.91job.org.cn/sub-station/home/10286",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（华南地区）",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190053/tag/sydw",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（东北地区）",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190117/tag/sydw",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（西北地区）",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190119/tag/sydw",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（华东地区）",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190054/tag/sydw",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（华中地区）",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190056/tag/sydw",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（华北地区）",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190052/tag/sydw",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中南大学",
+   "kind": "招聘活动",
+   "theme": "事业单位招聘信息汇总（西南地区）",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.csu.edu.cn/news/view/aid/190055/tag/sydw",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国农业大学",
+   "kind": "宣讲会/专场",
+   "theme": "雀巢中国2027校园招聘直播",
+   "startAt": "2026-09-07 19:00:00",
+   "endAt": "",
+   "location": "https://live.liepin.com/live?activityId=1874596797904906",
+   "url": "https://scc.cau.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中国科学技术大学",
+   "kind": "招聘活动",
+   "theme": "岚图汽车2027届校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://job.ustc.edu.cn/Specialrecruitment/info.aspx?itemid=9865",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "中山大学",
+   "kind": "招聘活动",
+   "theme": "网络 网络安全和信息化人才招聘会",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.sysu.edu.cn/jobfair",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京师范大学",
+   "kind": "宣讲会/专场",
+   "theme": "辽宁师范大学附属中学公开招聘教师公告",
+   "startAt": "2026-09-07 09:00:00",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.bnu.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京师范大学",
+   "kind": "宣讲会/专场",
+   "theme": "“合肥请您来”2026招才引智云聘会——肥西县重点产业链专场",
+   "startAt": "2026-09-07 14:26:00",
+   "endAt": "",
+   "location": "https://vfjumj.vnet.weizan.cn/live/page/235425060?v=1788312496145",
+   "url": "https://career.bnu.edu.cn/",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "麦科田医疗2027届校园招聘简章",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=471eff8d2bbe48a28154a143bc85eb04",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "武汉光至科技2027校园招聘-光学工程师",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-06 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=5b58581cc96640c28d9fce4827aa7515",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "星德科包装技术2027届校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=e58ec36bf0de411f9a57da9502f0dc15",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "卓望公司2027校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-06 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=767639fb3506420a8762220ee1fdc063",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "年轻，“九”要不一“阳” 九阳股份2027届秋季校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2026-10-31 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=daa7bdbffb2c4d659066e1289ae7426e",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "特变电工新变厂(中国500强) 2027届校园招聘简章",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-03 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=58ef9240333f4c1b85a924ca6e8fa7c1",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国工商银行深圳市分行2027年校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2026-10-08 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=74d9ade17faf4d75af0499d811586711",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "【山东青岛装备制造业上市公司】软控股份2027届秋季全球校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-05 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=46c40d668d534f9bb95a25ad24741ab7",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中节能万润股份27届校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-05 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=3fcbdcab64ea4c3f95acf947704c81ff",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "中国航空工业集团2027届校园招聘会",
+   "startAt": "2026-09-07",
+   "endAt": "2026-09-07 17:00:00",
+   "location": "体育馆主馆",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=112bbcdb849646348a402954e87dc460",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "展梦星辰 共赴未来——中国电信集团有限公司2027年度校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2026-09-07 18:00:00",
+   "location": "体育馆南厅",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=807baae72a7140f7a6835a4ceb4c3375",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "中国兵器工业第二〇三研究所2026年秋季校园招聘宣讲会",
+   "startAt": "2026-09-07",
+   "endAt": "2026-09-07 18:00:00",
+   "location": "唯实报告厅",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=86f73112fd014243b42e472b4dac7db2",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "与信同行，中信集团2027年校园招聘联合宣讲会",
+   "startAt": "2026-09-07",
+   "endAt": "2026-09-07 20:30:00",
+   "location": "唯实报告厅",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=8c3b3245540443048351cfd39a7f2bb7",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "中国空空导弹研究院2027届毕业生招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2026-09-07 20:00:00",
+   "location": "3号楼337",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=d842e177504143e8a996ff168ef42d52",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "vivo 2027届秋季校园招聘宣讲会",
+   "startAt": "2026-09-07",
+   "endAt": "2026-09-07 20:00:00",
+   "location": "中教325",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=5c7bc1c988824d7e8108b586e696f529",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘会",
+   "theme": "航空工业自控所2027届校园招聘宣讲会",
+   "startAt": "2026-09-07",
+   "endAt": "2026-09-07 20:00:00",
+   "location": "中教425",
+   "url": "/f/recruitmentFair/show?recruitmentFairId=6259e81e52474eb3ba7bc4b49bfb8b34",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国人民解放军95861部队2026年人才引进",
+   "startAt": "2026-09-07",
+   "endAt": "2026-09-30 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=4c8c28270a08447097c0f5386ad38eec",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "华中农业大学资源与环境学院2026年诚聘海内外英才",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-03 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=6d112bb432a643658b85211c02b340b2",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国工商银行广东省分行2027年度 校园招聘公告",
+   "startAt": "2026-09-07",
+   "endAt": "2026-10-08 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=5806d317a3184de68c401e7c69642f1a",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国工商银行总行本部2027年度 校园招聘启事",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=2585bffde35049ca8fef8c27f191af14",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "2026年烟台汽车工程职业学院第二批公开招聘高层次人才公告",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-05 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=c59409f487d34ee1858c3639b6c4d8af",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "零跑汽车2027届校园招聘全面启动",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-05 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=1051b93c8792461dbabb469e7f8af2e7",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "卡特彼勒中国2027校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-06 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=8b3285ac4ade4638b046f4d18ffa551f",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "新风天域集团2027届招聘简章",
+   "startAt": "2026-09-07",
+   "endAt": "2026-12-31 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=8633c01589f6468d9f5a09256210f996",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "【山东青岛装备制造业上市公司】软控股份2027届秋季全球校园招聘正式启动",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-05 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=caa0e7312b2c4610af8402cba6740ab4",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国移动通信有限公司信息港中心 （中移园区建设发展有限公司） 2027校园招聘",
+   "startAt": "2026-09-07",
+   "endAt": "2027-03-07 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=22d0dd7da5d7430e977862fd960eb7e6",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国移动通信集团重庆有限公司 2027校园招聘公告",
+   "startAt": "2026-09-07",
+   "endAt": "2026-10-09 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=a4769076fde84b17a0ff4eb4379ed4d6",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "北京理工大学",
+   "kind": "招聘活动",
+   "theme": "中国建设银行湖南省分行2027年度校园招聘公告",
+   "startAt": "2026-09-07",
+   "endAt": "2026-10-08 00:00:00",
+   "location": "-",
+   "url": "/f/recruitmentinfo/show?recruitmentId=f43abe6caaac4974a40e82534b3aa39e",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "淘天集团天猫家具校园招聘活动",
+   "startAt": "2026-09-07 12:00:00",
+   "endAt": "2026-09-07 18:00:00",
+   "location": "仙林校区 仙林校区4.5.6食堂路演",
+   "url": "https://job.nju.edu.cn/career/specifics/615508457688141825",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "上海光通信有限公司",
+   "startAt": "2026-09-07 13:30:00",
+   "endAt": "2026-09-07 17:00:00",
+   "location": "仙林校区 十食堂三楼就业中心307",
+   "url": "https://job.nju.edu.cn/career/specifics/613365116624179202",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "中国平安2027全球校园招聘",
+   "startAt": "2026-09-07 14:00:00",
+   "endAt": "2026-09-07 18:00:00",
+   "location": "仙林校区 国际会议中心紫金厅（与国会中心预定场地）",
+   "url": "https://job.nju.edu.cn/career/specifics/616215537097117698",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "禾赛科技27届南大线下宣讲招聘会",
+   "startAt": "2026-09-07 14:00:00",
+   "endAt": "2026-09-07 17:00:00",
+   "location": "仙林校区 就业中心303报告厅（具备同步视频直播功能）",
+   "url": "https://job.nju.edu.cn/career/specifics/615562767360856065",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "远景动力 2027 届校招",
+   "startAt": "2026-09-07 18:00:00",
+   "endAt": "2026-09-07 20:00:00",
+   "location": "仙林校区 就业中心306报告厅（具备同步视频直播功能）",
+   "url": "https://job.nju.edu.cn/career/specifics/613031769523884034",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "vivo 2027届秋季校园招聘南大专场宣讲会",
+   "startAt": "2026-09-07 18:30:00",
+   "endAt": "2026-09-07 20:30:00",
+   "location": "仙林校区 电子学院124报告厅",
+   "url": "https://job.nju.edu.cn/career/specifics/615492287379542017",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "携程集团2027届秋季校园招聘宣讲会",
+   "startAt": "2026-09-07 18:30:00",
+   "endAt": "2026-09-07 21:00:00",
+   "location": "仙林校区 就业中心303报告厅（具备同步视频直播功能）",
+   "url": "https://job.nju.edu.cn/career/specifics/613700446082568193",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "2027宝洁秋季招聘",
+   "startAt": "2026-09-07 18:30:00",
+   "endAt": "2026-09-07 21:30:00",
+   "location": "仙林校区 计算机221报告厅",
+   "url": "https://job.nju.edu.cn/career/specifics/613697175171371009",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "南京大学",
+   "kind": "专场招聘会",
+   "theme": "北方华创微电子2027届全球校园招聘",
+   "startAt": "2026-09-07 19:00:00",
+   "endAt": "2026-09-07 21:00:00",
+   "location": "仙林校区 十食堂三楼就业中心307",
+   "url": "https://job.nju.edu.cn/career/specifics/614728054815592450",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "中微公司2027届校园招聘宣讲会",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "烟台睿创微纳技术股份有限公司2027届校园宣讲会-复旦大学站",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣中微公司2027届校园招聘宣讲会",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "javascript:void(0);",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "宣烟台睿创微纳技术股份有限公司2027届校园宣讲会-复旦大学站",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "javascript:void(0);",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "中微公司2027届校园招聘宣讲会\n\n 2026-09-07 18:30\n\n举办地点： 江湾校区交叉二号学科楼E1006报告厅\n\n举办用人单位： 中微半导体（上海",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=2eba967b-4941-b1b6-43b6-fe71ef878554",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "烟台睿创微纳技术股份有限公司2027届校园宣讲会-复旦大学站\n\n 2026-09-07 18:30\n\n举办地点： 江湾校区行政楼（廖凯原法学楼）第二会议室\n\n举",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=7c3a9687-b2ee-699d-a51c-acf4ce6364ce",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "科大讯飞2027届校园招聘\n\n 2026-09-08 15:00\n\n举办地点： 江湾校区交叉二号学科楼E1006报告厅\n\n举办用人单位： 科大讯飞股份有限公司",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=2dceba6f-2283-6e0b-886b-f5370717c97d",
+   "firstSeen": "2026-09-07"
+  },
+  {
+   "school": "复旦大学",
+   "kind": "招聘活动",
+   "theme": "寒武纪2027届校园招聘宣讲会\n\n 2026-09-08 18:30\n\n举办地点： 张江校区Z2201\n\n举办用人单位： 前锦网络信息技术（上海）有限公司",
+   "startAt": "2026-09-07",
+   "endAt": "",
+   "location": "-",
+   "url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=32032e7e-d0e0-5e1a-41c8-8f0d91534152",
+   "firstSeen": "2026-09-07"
   }
  ],
- "count": 173,
+ "count": 434,
  "updated": "2026-09-10"
 }
